@@ -1,0 +1,7 @@
+﻿GetCurrentProcess
+OpenProcessToken
+GetTokenInformation
+CloseHandle
+ConvertSidToStringSidW
+LocalFree
+TOKEN_APPCONTAINER_INFORMATION
